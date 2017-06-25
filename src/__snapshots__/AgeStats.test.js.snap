@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AgeStats renders with date 1`] = `
+<div>
+  <h2>
+    22-12-2014
+  </h2>
+</div>
+`;
+
+exports[`AgeStats renders with diffedDate 1`] = `
+<div>
+  <h2 />
+</div>
+`;
+
+exports[`AgeStats renders without props 1`] = `
+<div>
+  <h2 />
+</div>
+`;

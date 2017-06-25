@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`calcDateDifference function returns expected string of date values 1`] = `"You were born 2 days ago!"`;

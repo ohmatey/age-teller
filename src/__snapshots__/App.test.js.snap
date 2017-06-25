@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component renders with date 1`] = `
+<div
+  className="App"
+>
+  <h1>
+    Enter your birthday!
+  </h1>
+  <form
+    className="form-inline"
+  >
+    <input
+      className="form-control"
+      id={undefined}
+      onChange={undefined}
+      type="date"
+      value={undefined}
+    />
+  </form>
+  <div>
+    <h2 />
+  </div>
+</div>
+`;
+
+exports[`App component renders without props 1`] = `
+<div
+  className="App"
+>
+  <h1>
+    Enter your birthday!
+  </h1>
+  <form
+    className="form-inline"
+  >
+    <input
+      className="form-control"
+      id={undefined}
+      onChange={undefined}
+      type="date"
+      value={undefined}
+    />
+  </form>
+  <div>
+    <h2 />
+  </div>
+</div>
+`;
